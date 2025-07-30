@@ -1,0 +1,7 @@
+{
+  "project": {
+    "name": "sme-sample-project",
+    "framework": "nextjs",
+    "rootDirectory": "frontend"
+  }
+}
